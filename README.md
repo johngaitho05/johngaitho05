@@ -10,4 +10,6 @@ and a Python/javaScript specialist.
 - 👯 I’m looking to collaborate on React and/or Django Projects.
 - 💬 Ask me about Django, Odoo or React JS
 
+### My Stack
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,django,react,postgres,jquery,docker)](https://skillicons.dev)
