@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm John Gaitho -  A Full Stack Website and ERP Developer 
+I'm John Gaitho -  A Full Stack Web and ERP Developer 
 
 - I'm interested in developing exceptional business solutions through oustanding websites and ERP Systems.
 
