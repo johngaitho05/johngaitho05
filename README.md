@@ -9,6 +9,6 @@ I'm John Gaitho -  A Full Stack Web Developer
 - 👯 I’m looking to collaborate on Django, React, and Odoo Projects.
 - 💬 Ask me about Python and JavaScript
 
-### My Stack
+### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,django,react,vue,nodejs,postgres,jquery,docker,firebase,graphql,git,html,css,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,django,react,postgres,jquery,docker,firebase,graphql,git,html,css,tailwind,bootstrap)](https://skillicons.dev)
