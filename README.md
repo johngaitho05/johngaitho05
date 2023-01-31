@@ -11,4 +11,4 @@ I'm John Gaitho -  A Full Stack Website and ERP Developer
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,django,react,postgres,jquery,docker,firebase,graphql,git,html,css,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,django,react,postgres,jquery,html,css,tailwind,bootstrap,docker,firebase,graphql,git)](https://skillicons.dev)
