@@ -11,4 +11,4 @@ I'm John Gaitho -  A Full Stack Web Developer
 
 ### My Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,django,react,postgres,jquery,docker,firebase,graphql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,tailwind,django,react,vue,nodejs,postgres,jquery,docker,firebase,graphql,git)](https://skillicons.dev)
