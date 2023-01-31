@@ -2,7 +2,7 @@
 
 I'm John Gaitho -  A Full Stack Web and ERP Developer 
 
-- I'm interested in developing exceptional business solutions through oustanding websites and ERP Systems.
+- My goal is to develop exceptional business solutions through oustanding websites and ERP Systems.
 
 - 🔭 Currently working as Techno-Functional Odoo ERP Consultant
 - 🌱 I’m currently learning React JS
