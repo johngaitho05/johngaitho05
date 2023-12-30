@@ -1,14 +1,13 @@
-### Hi there 👋
+### Who am I?
 
-I'm John Gaitho -  A Full Stack Web and ERP Developer 
+I'm a not-so-pro but rigorous and autonomous developer with a particular set of skills that I intend to use in a bid to promote easy living.
 
-- My goal is to develop exceptional business solutions through oustanding websites and ERP Systems.
+I'm the busy one but if it is interesting enough then I have a time machine :smiley: . Don't be afraid to reach out (as long as it involves Python or JavaScript).
 
-- 🔭 Currently working as Techno-Functional Odoo ERP Consultant
-- 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on Django, React, and Odoo Projects.
-- 💬 Ask me about Python and JavaScript
+### My Skills
 
-### Skills
+[![My Skills](https://skillicons.dev/icons?i=js,py,django,flask,react,postgres,jquery,html,css,docker,nginx)](https://skillicons.dev)
+###  My GitHub Stats:
+<img src = "https://github-readme-stats.vercel.app/api?username=johngaitho05&&show_icons=true&title_color=FEBE10&icon_color=D2122E&text_color=daf7dc&bg_color=002D62">
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,django,react,nextjs,postgres,jquery,html,css,tailwind,bootstrap,docker,graphql,git,nginx)](https://skillicons.dev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johngaitho05&theme=gruvbox&border_radius=3.5&background=45%2C030F5A%2C05091F)](https://git.io/streak-stats)
