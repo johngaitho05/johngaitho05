@@ -8,7 +8,7 @@ I'm the busy one but if it is interesting enough, I have a time machine :smiley:
 - [simplygaitho@gmail.com](mailto:simplygaitho@gmail.com)
 - [https://johngaitho.info](https://johngaitho.info)
 
-### My Skills
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,django,flask,react,postgres,jquery,html,css,docker,nginx)](https://skillicons.dev) ![odoo](https://play-lh.googleusercontent.com/Zv2I5VIii0ZK9sJ2FgPFZxynVqtcenDZkO9BUYMO-35sTExs21OsGXEj2kQQFkk2ww=w50-h50-rw)
 
